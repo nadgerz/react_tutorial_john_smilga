@@ -1,0 +1,16 @@
+
+001
+===
+
+React is a UI Library
+
+It helps us create UI components that we can re-use easily across our application.
+
+It combines (or can) JS, HTML(-like) constructs and CSS in each component like a self-contained component.
+
+	CSS can be done with a variety of NPM packages like styled-components or CSS modules
+
+	This part is still in a stage of evolution... things are changing.
+
+
+
