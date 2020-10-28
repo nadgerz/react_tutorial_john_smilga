@@ -13,4 +13,13 @@ It combines (or can) JS, HTML(-like) constructs and CSS in each component like a
 	This part is still in a stage of evolution... things are changing.
 
 
+002
+===
+
+Just setup.
+
+If you want VSCODE setup info - extensions etc...
+
+https://github.com/nadgerz/VS-CODE-SETUP
+
 
