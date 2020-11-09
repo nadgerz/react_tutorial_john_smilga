@@ -6,13 +6,16 @@ function BookList() {
     <>
       <section>this is a booklist</section>
       <Book />
-      <Image />
     </>
   );
 }
 
 const Book = () => {
-  return <article>this is a book</article>;
+  return (
+    <article>
+      <Image />
+    </article>
+  );
 };
 
 const Image = () => (
