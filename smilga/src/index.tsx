@@ -6,10 +6,16 @@ import "./index.css";
 function BookList() {
   return (
     <>
-      <section>this is a booklist</section>
-      <Book />
-      <Book />
-      <Book />
+      <p>this is a booklist</p>
+      <section className="booklist">
+        <Book />
+        <Book />
+        <Book />
+        <Book />
+        <Book />
+        <Book />
+        <Book />
+      </section>
     </>
   );
 }
@@ -27,7 +33,6 @@ const Book = () => {
 const Image = () => (
   <img
     src="https://books.adrianmejia.com/dsajs-data-structures-algorithms-javascript/images/dsajs-cover-320h2.png"
-    width="100px"
     alt="Book Image"
   />
 );
